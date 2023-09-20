@@ -19,21 +19,18 @@ assignees: ''
 - Learning outcomes: 
 
 ## Organisation:
-- Date/time:
-- Location:
-- Capacity:
-[ ] Trainers and helpers booked
-[ ] Location booked
-[ ] Date and time agreed with department
-[ ] Places advertised
-[ ] Material created
-[ ] Learning outcomes identified
+- [ ] Trainers and helpers booked
+- [ ] Location booked
+- [ ] Date and time agreed with department
+- [ ] Places advertised
+- [ ] Material created
+- [ ] Learning outcomes identified
 
 ## Delivery
-[ ] Course delivered
-[ ] Feedback forms circulated
+- [ ] Course delivered
+- [ ] Feedback forms circulated
 
 ## Post-delivery
-[ ] Feedback analysed and sent to central location
-[ ] Learning from feedback circulated to training team
-[ ] Timesheets completed
+- [ ] Feedback analysed and sent to central location
+- [ ] Learning from feedback circulated to training team
+- [ ] Timesheets completed
