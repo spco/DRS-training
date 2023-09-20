@@ -17,14 +17,21 @@ assignees: ''
 - Location: 
 - Capacity: 
 - Learning outcomes: 
+- Suggested audience: 
+- Prerequisites: 
 
 ## Organisation:
-- [ ] Trainers and helpers booked
-- [ ] Location booked
-- [ ] Date and time agreed with department
-- [ ] Places advertised
-- [ ] Material created
-- [ ] Learning outcomes identified
+- [ ] Book trainers and helpers
+- [ ] Book venue
+- [ ] Agree date and time with department
+- [ ] Create materials
+- [ ] Identify learning outcomes
+- [ ] Advertise the course
+
+## Pre-delivery
+- [ ] Send out pre-training materials to learners
+- [ ] Create lesson progress spreadsheet
+- [ ] Create feedback form
 
 ## Delivery
 - [ ] Course delivered
