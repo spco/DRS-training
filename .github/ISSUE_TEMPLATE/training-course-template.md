@@ -24,7 +24,7 @@ assignees: ''
 - [ ] Book trainers and helpers
 - [ ] Book venue
 - [ ] Agree date and time with department
-- [ ] Create materials
+- [ ] Create materials - [linked here](link)
 - [ ] Identify learning outcomes
 - [ ] Advertise the course
 
