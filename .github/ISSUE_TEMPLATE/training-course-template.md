@@ -20,7 +20,7 @@ assignees: ''
 - Suggested audience: 
 - Prerequisites: 
 
-## Organisation:
+## Organisation
 - [ ] Book trainers and helpers
 - [ ] Book venue
 - [ ] Agree date and time with department
@@ -28,7 +28,7 @@ assignees: ''
 - [ ] Identify learning outcomes
 - [ ] Advertise the course
 
-## Pre-delivery
+## Pre-delivery
 - [ ] Send out pre-training materials to learners
 - [ ] Create lesson progress spreadsheet
 - [ ] Create feedback form
